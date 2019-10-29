@@ -1,0 +1,63 @@
+Table of Contents
+
+1. Scenario 
+  a) what is on-demand business?
+  b) business needs
+  c) example of use by on-demand business
+
+2. Business volume
+   a) examples of on-demand businesses
+   b) market volume
+
+3. Platform/Overview.
+   a) structure
+   b) web based platform;
+   c) mobile App.
+   e) features.
+
+4. Competition.
+
+5. Our advantages.
+
+6. Business benefits.
+
+7. Client benefits.
+
+8. Technology we use.
+
+
+FOR BUSINESS
+
+1.	Company info brief.
+a.	Skyline
+b.	Company Statistics
+c.	Goal
+d.	Advantages
+2.	 Problem, challenges, bad news companies deal with.
+a.	Problem, challenges, bad news companies deal with 
+b.	Why there is a problem
+c.	What your client must do about it
+3.	How we solve the problem
+4.	How you are uniquely positioned to solve the problem
+5.	Business benefits 
+6.	Conclusion
+
+
+
+
+FOR INVESTORS
+
+c)	Company Advantages:
+-	Established company with experienced and skilled professionals 
+-	The latest technology we use like MySQL, PostgreSQL, PHP7, Laravel 5.6, Redis, Vue.js
+-	Custom approach 
+-	Personalized solution
+-	Cost effective
+-	Secure
+
+
+Here are the five biggest challenges for small businesses.
+
+
+
+
